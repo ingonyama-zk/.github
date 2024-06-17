@@ -31,6 +31,6 @@ ICICLE is an open-source library for ZK acceleration using CUDA-enabled GPUs. It
 - [Documentation](https://dev.ingonyama.com/icicle/overview)
 
 ### Open-Binius
-Open-Binius contains open-source hardware IPs for accelerating ZK proofs over binary fields. Binius is a proof system developed by Irreducible. For more information, visit [binius.xyz](http://binius.xyz/).
+Open-Binius contains open-source hardware IPs for accelerating ZK proofs over binary fields. 
 
 - [Open-Binius](https://github.com/ingonyama-zk/open-binius)
