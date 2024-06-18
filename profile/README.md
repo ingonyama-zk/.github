@@ -6,7 +6,7 @@
 
 Ingonyama specializes in hardware acceleration for Zero Knowledge Proofs (ZKP), providing products like ICICLE for GPU-based ZK acceleration and ZaKi for deploying hardware-accelerated ZK provers.
 We are dedicated to transparency and welcome anyone interested in contributing and collaborating with us. Reach out to us at hi@ingonyama.com to explore how we can work together.
-For more details, visit Ingonyama.
+For more details, visit [Ingonyama](https://www.ingonyama.com/).
 
 
 ## Links
