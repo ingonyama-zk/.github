@@ -1,4 +1,4 @@
-# Ingonyama
+---
 
 <p align="center">
   <img src="https://github.com/ingonyama-zk/.github/assets/122266060/68e5dbca-0ada-4019-9e7b-239e8e80db12" alt="Ingonyama Image" width="500"/>
