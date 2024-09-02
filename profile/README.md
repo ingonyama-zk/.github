@@ -1,11 +1,15 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/ingonyama-zk/.github/assets/122266060/68e5dbca-0ada-4019-9e7b-239e8e80db12" alt="Ingonyama Image" width="500"/>
+  <a href="https://github.com/user-attachments/assets/87923a40-7d03-4db5-b6cf-e6cc80981f7f">
+    <img src="https://github.com/user-attachments/assets/87923a40-7d03-4db5-b6cf-e6cc80981f7f" alt="Ingonyama Image" width="800"/>
+  </a>
 </p>
 
-Ingonyama specializes in hardware acceleration for Zero Knowledge Proofs (ZKP), providing products like ICICLE for GPU-based ZK acceleration and ZaKi for deploying hardware-accelerated ZK provers.
-We are dedicated to transparency and welcome anyone interested in contributing and collaborating with us. Reach out to us at hi@ingonyama.com to explore how we can work together.
+---
+
+Ingonyama specializes in hardware acceleration for Zero Knowledge Proofs (ZKP), focusing on the ICICLE software library for accelerating crytography on various backends, including CPU, GPU and others.
+We are dedicated to transparency and welcome anyone interested in contributing and collaborating with us. Reach out to us at hi@ingonyama.com to explore how we can work together. 
 For more details, visit [Ingonyama](https://www.ingonyama.com/).
 
 
@@ -13,7 +17,7 @@ For more details, visit [Ingonyama](https://www.ingonyama.com/).
 - Website: https://www.ingonyama.com/
 - X/Twitter: https://x.com/Ingo_zk
 - Discord: https://discord.gg/eVrN96pR3U
-- Support: https://discord.gg/cbZnbPu3RJ
+- Support: support@ingonyama.com
 - Blog: https://www.ingonyama.com/blog
 - Videos: https://www.ingonyama.com/videos
 - Product Documentation: https://dev.ingonyama.com/
@@ -21,13 +25,8 @@ For more details, visit [Ingonyama](https://www.ingonyama.com/).
 
 ## Repositories
 
-### Ingopedia
-Ingopedia is a community-driven repository for Zero Knowledge Proofs (ZKPs), offering resources for all levels. Join us in building a valuable, up-to-date resource for the ZKP community.
-
-- [Ingopedia](https://www.ingonyama.com/ingopedia/communityguide)
-
 ### ICICLE
-ICICLE is an open-source library for ZK acceleration using CUDA-enabled GPUs. It is an essential tool for ZK developers and researchers focused on advancing Zero Knowledge Proofs using GPU.
+ICICLE is a hardware agnostic library for ZK acceleration. It is an essential tool for cryptographers, developers and researchers focused on advancing compute intensive cryptography.
 
 - [ICICLE Repository](https://github.com/ingonyama-zk/icicle)
 - [Documentation](https://dev.ingonyama.com/icicle/overview)
@@ -36,3 +35,11 @@ ICICLE is an open-source library for ZK acceleration using CUDA-enabled GPUs. It
 Open-Binius contains open-source hardware IPs for accelerating ZK proofs over binary fields. 
 
 - [Open-Binius](https://github.com/ingonyama-zk/open-binius)
+
+
+
+### Ingopedia
+Ingopedia is a community-driven repository for Zero Knowledge Proofs (ZKPs), offering resources for all levels. Join us in building a valuable, up-to-date resource for the ZKP community.
+
+- [Ingopedia](https://www.ingonyama.com/ingopedia/communityguide)
+
