@@ -8,7 +8,7 @@
 
 ---
 
-Ingonyama is a next-generation semiconductor company focused on accelerating Zero-Knowledge Proofs (ZKPs) through cutting-edge cryptographic solutions. We make compute-intensive cryptography accessible to developers, enabling the creation of powerful, real-time applications with ease.
+Ingonyama is a next-generation semiconductor company focused on accelerating Zero-Knowledge Proofs (ZKPs) through cutting edge engineering and algorithms. We make compute-intensive cryptography accessible to developers, enabling the creation of powerful, real-time applications with ease.
 
 Our flagship product, **ICICLE**, is a versatile and innovative cryptography library that empowers the development of efficient and scalable cryptographic systems.
 
