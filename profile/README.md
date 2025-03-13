@@ -40,6 +40,7 @@ Ingopedia is a community-driven repository for Zero Knowledge Proofs (ZKPs), off
 
 ## Links
 - Website: https://www.ingonyama.com/
+- Papers: https://github.com/ingonyama-zk/papers
 - X/Twitter: https://x.com/Ingo_zk
 - Discord: https://discord.gg/eVrN96pR3U
 - Support: support@ingonyama.com
