@@ -27,6 +27,7 @@ Extensions that adapt ICICLE for specific frameworks or applications:
 - [**ICICLE-Jolt**](https://github.com/ingonyama-zk/icicle-jolt) 
 - [**ICICLE-Sui**](https://github.com/ingonyama-zk/icicle-sui)
 - [**ICICLE-Stwo**](https://github.com/ingonyama-zk/icicle-stwo)
+- [**ICICLE-Snark**](https://github.com/ingonyama-zk/icicle-snark)
 
 ## Open-Binius
 Open-Binius contains open-source hardware IPs for accelerating ZK proofs over binary fields. 
