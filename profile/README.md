@@ -8,10 +8,9 @@
 
 ---
 
-Ingonyama is a next-generation semiconductor company focused on accelerating Zero-Knowledge Proofs (ZKPs) through cutting edge engineering and algorithms. We make compute-intensive cryptography accessible to developers, enabling the creation of powerful, real-time applications with ease.
+Ingonyama is a next-generation semiconductor company accelerating high-speed cryptography through advanced engineering and algorithm design. We make compute-intensive cryptography accessible to developers, enabling powerful, real-time applications with ease.
 
-Our flagship product, **ICICLE**, is a software library designed to empower cryptographers to implement advanced algorithms and protocols,
-starting with Zero-Knowledge Proofs (ZKPs), with exceptional performance and ease of use. It represents a significant step toward hardware-agnostic cryptographic solutions, offering seamless compatibility across diverse hardware platforms with zero switching costs.
+Our flagship product, **ICICLE**, is a software library designed to empower cryptographers to implement advanced algorithms and protocols with exceptional performance and ease of use. It represents a significant step toward hardware-agnostic cryptographic solutions, offering seamless compatibility across diverse hardware platforms with zero switching costs.
 
 ---
 
@@ -30,12 +29,6 @@ Extensions that adapt ICICLE for specific frameworks or applications:
 - [**ICICLE-Stwo**](https://github.com/ingonyama-zk/icicle-stwo)
 - [**ICICLE-Snark**](https://github.com/ingonyama-zk/icicle-snark)
 
-
-
-## Ingopedia
-Ingopedia is a community-driven repository for Zero Knowledge Proofs (ZKPs), offering resources for all levels. Join us in building a valuable, up-to-date resource for the ZKP community.
-
-- [Ingopedia](https://www.ingonyama.com/ingopedia/communityguide)
 
 ## Links
 - Website: https://www.ingonyama.com/
