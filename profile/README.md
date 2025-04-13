@@ -8,9 +8,9 @@
 
 ---
 
-Ingonyama is a next-generation semiconductor company accelerating high-speed cryptography through advanced engineering and algorithm design. Our mission is to make compute-intensive cryptography accessible to developers, enabling powerful, real-time applications with ease.
+Ingonyama is a next-generation semiconductor company accelerating high-speed cryptography through advanced engineering and algorithm design. Our mission is to make compute-intensive cryptography accessible to developers, enabling powerful, real-time applications with exceptional ease of use.
 
-Our flagship product, **ICICLE**, is a high-performance, backend-agnostic cryptography library that empowers cryptographers to implement advanced algorithms and protocols with ease. It supports multiple languages, integrates smoothly with popular frameworks, and delivers exceptional performance across CPUs, GPUs, and other hardware platforms, with zero switching costs.
+Our flagship product, **ICICLE**, is a high-performance, backend-agnostic cryptography library that empowers cryptographers to implement advanced algorithms and protocols. It supports multiple languages, integrates smoothly with popular frameworks, and delivers exceptional performance across CPUs, GPUs, and other hardware platforms, with zero switching costs.
 
 ---
 
