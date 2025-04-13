@@ -8,14 +8,14 @@
 
 ---
 
-Ingonyama is a next-generation semiconductor company accelerating high-speed cryptography through advanced engineering and algorithm design. We make compute-intensive cryptography accessible to developers, enabling powerful, real-time applications with ease.
+Ingonyama is a next-generation semiconductor company accelerating high-speed cryptography through advanced engineering and algorithm design. Our mission is to make compute-intensive cryptography accessible to developers, enabling powerful, real-time applications with ease.
 
-Our flagship product, **ICICLE**, is a software library designed to empower cryptographers to implement advanced algorithms and protocols with exceptional performance and ease of use. It represents a significant step toward hardware-agnostic cryptographic solutions, offering seamless compatibility across diverse hardware platforms with zero switching costs.
+Our flagship product, **ICICLE**, is a high-performance, backend-agnostic cryptography library that empowers cryptographers to implement advanced algorithms and protocols with ease. It supports multiple languages, integrates smoothly with popular frameworks, and delivers exceptional performance across CPUs, GPUs, and other hardware platforms, with zero switching costs.
 
 ---
 
 ## ICICLE  
-**ICICLE** is the backbone of Ingonyama’s approach to high-speed cryptography acceleration. It is a powerful, backend-agnostic, cross-language cryptography library that serves as the engine for building zero-knowledge provers and other advanced cryptographic applications. Its modular design allows seamless integration with various frameworks through dedicated repositories.
+With its modular architecture, **ICICLE** serves as the engine behind zero-knowledge provers and other advanced cryptographic applications. It is the foundation of Ingonyama’s approach to scalable, hardware-agnostic cryptographic acceleration.
 
 - [**ICICLE**](https://github.com/ingonyama-zk/icicle)
 - [**Documentation**](https://dev.ingonyama.com/icicle/overview)
