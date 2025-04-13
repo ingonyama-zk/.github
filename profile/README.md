@@ -15,7 +15,7 @@ Our flagship product, **ICICLE**, is a software library designed to empower cryp
 ---
 
 ## ICICLE  
-**ICICLE** is the backbone of Ingonyama’s approach to high-speed cryptography acceleration. It is a powerful, backend-agnostic, cross-language cryptography library that serves as the engine for building Zero-knowledge provers and other advanced cryptographic applications. Its modular design allows seamless integration with various frameworks through dedicated repositories.
+**ICICLE** is the backbone of Ingonyama’s approach to high-speed cryptography acceleration. It is a powerful, backend-agnostic, cross-language cryptography library that serves as the engine for building zero-knowledge provers and other advanced cryptographic applications. Its modular design allows seamless integration with various frameworks through dedicated repositories.
 
 - [**ICICLE**](https://github.com/ingonyama-zk/icicle)
 - [Documentation](https://dev.ingonyama.com/icicle/overview)
