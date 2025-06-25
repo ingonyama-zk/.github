@@ -11,7 +11,7 @@
 With its modular architecture, **ICICLE** serves as the engine behind zero-knowledge provers and other advanced cryptographic applications. It is the foundation of Ingonyama’s approach to scalable, hardware-agnostic cryptographic acceleration.
 
 - [**ICICLE**](https://github.com/ingonyama-zk/icicle)
-- [**Documentation**](https://dev.ingonyama.com/icicle/overview)
+- [**Documentation**](https://dev.ingonyama.com)
 
 ### Frameworks Built on ICICLE
 
