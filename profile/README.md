@@ -25,7 +25,7 @@ Extensions that adapt ICICLE for specific frameworks or applications:
 - [**ICICLE-Sui**](https://github.com/ingonyama-zk/icicle-sui)  
 - [**ICICLE-Stwo**](https://github.com/ingonyama-zk/icicle-stwo)  
 - [**ICICLE-Snark**](https://github.com/ingonyama-zk/icicle-snark)
-- [**ICICLE-Halo2**]
+- [**ICICLE-Halo2**](https://github.com/ingonyama-zk/halo2)
 
 
 ## Links
